@@ -48,12 +48,11 @@
 <div class="static">
     <nav >
         <a href="#">Welcome</a>
-        <a href="button"href="https://www.sltda.gov.lk/en" target="_blank">About</a>
-        <a href="https://www.lonelyplanet.com/sri-lanka" target="_blank">Travel Guide</a>
-       <a href="https://www.booking.com/index.en-gb.html?aid=2311236;label=en-lk-booking-desktop-eg*Y1*Q38SQ584P9vEPy5QS652796017434:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-52130876804:lp1009919:li:dec:dm;ws=&gclid=Cj0KCQjw7JOpBhCfARIsAL3bobd05wCGC_Hd8TTsiN5MfmGlCtcDr58kbCu5w1pBlMKgXMhxBSMPL9UaAuphEALw_wcB"target="_blank">
-       Booking</a>
-	<a href="https://seatreservation.railway.gov.lk/mtktwebslr/" target="_blank">Railway Booking</a>	
-	<a href="https://www.google.com/maps/place/Sri+Lanka/@7.6651278,80.8974295,8z/data=!4m6!3m5!1s0x3ae2593cf65a1e9d:0xe13da4b400e2d38c!8m2!3d7.873054!4d80.771797!16zL20vMDZtXzU?entry=ttu" target="_blank">Map</a>
+        <a href="#">About</a>
+        <a href="#">Travel Guide</a>
+       <a href="#">Booking</a>
+	<a href="#">Railway Booking</a>	
+	<a href="#">Map</a>
     </nav> </div>
 
     <div class="container">
